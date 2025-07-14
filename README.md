@@ -19,8 +19,6 @@ This project implements a machine learning pipeline to classify breast cancer tu
 \`\`\`
 📂 breast-cancer-wisconsin-diagnostic/
 ├── 01_linear_classifier_pipeline.ipynb
-├── 02_interpretability_shap.ipynb
-├── 02_interpretability_shap_fixed.ipynb
 ├── AML_project_SHAP_clean_final.ipynb
 ├── random_forest_model.pkl
 ├── SHAP_Report.pdf
